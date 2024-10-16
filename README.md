@@ -1,5 +1,5 @@
 1.  Download
-Clone this repository and navigate to the directory:
+Clone this repository and navigate to the directory: https://github.com/LFJ123456191/DRL-EPKG-
 
 2、Build Scenarios
 Download & build SMARTS according to its repository
